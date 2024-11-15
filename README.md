@@ -3,8 +3,8 @@ Enter a type of alchohol and you will get a cocktail with instructions!! Bottoms
 
 Link to project: https://cocktailered.netlify.app/
 
-![alt tag](https://i.imgur.com/kF7vhYb.png)
 
+<img src="https://i.imgur.com/kF7vhYb.png" width=40% height=40%>
 How It's Made:
 Tech used: HTML, CSS, Javascript
 
